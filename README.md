@@ -64,9 +64,6 @@ Fresh **Management Information Systems** graduate from **University of Jordan** 
 </div>
 
 ---
-</div>
-
----
 
 ## 🎯 Current Goals
 
