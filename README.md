@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Huthaifa Eneizat
 
 ## 🚀 About Me
-Fresh **Management Information Systems** graduate from **University of Jordan** with a strong foundation in **System Analysis** and **Database Management**. I'm an aspiring **Android Developer** focusing on **Kotlin** and **Jetpack Compose**, eager to transform business needs into real-world mobile solutions.
+Fresh **Management Information Systems** graduate from the **University of Jordan**, with a strong foundation in **System Analysis**, **Database Management**, and **Mobile Development**.  
+I'm currently working as a **Flutter Developer Trainee**, while also developing Android apps using **Kotlin** and **Jetpack Compose**.
 
-- 🔭 I'm currently working on **Android development projects using Kotlin** and **learning full-stack development**
-- 🌱 I'm currently learning **Jetpack Compose**, **Dagger/Hilt**, and **AWS cloud services**
-- 👯 I'm looking to collaborate on **open source Android projects** and **innovative mobile applications**
-- 🤔 I'm looking for help with **industry best practices in mobile architecture** and **mentorship opportunities**
-- 💬 Ask me about **Java programming**, **Android development**, **system analysis**, or **database management**
-- 📫 How to reach me: **hothefh2016h@gmail.com** | [LinkedIn](https://linkedin.com/in/huthaifa-eneizat)
-- ⚡ Fun fact: I love solving complex problems and turning ideas into functional applications!
+- 🔭 I'm currently working on **Flutter development projects** + **Android (Kotlin)**
+- 🌱 Learning **Jetpack Compose**, **Dagger/Hilt**, **Flutter best practices**, and **AWS Cloud**
+- 👯 Looking to collaborate on **open-source mobile projects**  
+- 💬 Ask me about **Kotlin**, **Java**, **Flutter**, **system analysis**, or **database management**
+- 📫 Contact me: **hothefh2016h@gmail.com**  
+- ⚡ Fun fact: I love turning ideas into functional applications!
 
 ---
 
@@ -19,12 +19,13 @@ Fresh **Management Information Systems** graduate from **University of Jordan** 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Mobile Development & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### Database, Cloud & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,18 +35,25 @@ Fresh **Management Information Systems** graduate from **University of Jordan** 
 
 ---
 
-## 💡 My Projects (Replace with your actual projects)
-* **Taskify (Android Mobile App):** A task management application built with **Kotlin, Jetpack Compose, and Room Database** following MVVM architecture. [View Repository](https://github.com/HtQe/Your-Taskify-Repo)
-* **University MIS Portal (Java/Web):** A simulated web application for managing student registration and grades, demonstrating **Database Management (MySQL) and System Analysis**. [View Repository](https://github.com/HtQe/Your-MIS-Repo)
+## 💡 Projects
+*(Replace the links with your real repositories)*
+
+- **Taskify – Kotlin & Jetpack Compose**  
+  A task management application following MVVM + Room Database.  
+  👉 [View Repository](https://github.com/HtQe/Your-Taskify-Repo)
+
+- **University MIS Portal – Java Web**  
+  A simulated MIS system demonstrating analysis + MySQL.  
+  👉 [View Repository](https://github.com/HtQe/Your-MIS-Repo)
 
 ---
 
 ## 🎓 Education & Certifications
 
-**🎓 Bachelor of Management Information Systems**  
+**🎓 Bachelor of Management Information Systems**  
 *University of Jordan* | *2021 - 2025*
 
-**📜 Recent Certifications:**
+**📜 Certifications:**
 - Programming Fundamentals in Kotlin (2025)
 - Introduction to Android Mobile Application Development (2025)
 - Android Application Programming (2023)
@@ -56,27 +64,24 @@ Fresh **Management Information Systems** graduate from **University of Jordan** 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Huthaifa's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=HtQe&show_icons=true&theme=radical&hide_rank=true)
 
-![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=HtQe&layout=compact&theme=radical)
+![Huthaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtQe&show_icons=true&theme=radical&hide_rank=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtQe&layout=compact&theme=radical&cache_seconds=86400)
 
 </div>
 
 ---
 
 ## 🎯 Current Goals
-
-- 🏆 **Short-term**: Land an Android Developer **Internship or Trainee** position within **6 months**.
-- 🌟 **Learning Focus**: Master **Jetpack Compose** by building **two complete mobile applications** before the end of Q1 2026.
-- 🤝 **Community**: Contributing actively to open source projects and connecting with fellow developers.
-- ☁️ **Next Step**: Pursuing **AWS Certified Cloud Practitioner** certification to enhance my skill set.
+- 🏆 **Short-term Goal:** Get an **Android/Flutter intern or trainee** position within the next 6 months  
+- 📱 Build **2 complete Flutter apps** + **2 Android (Compose) apps** by Q1 2026  
+- 🤝 Contribute to open-source projects  
+- ☁️ Study for **AWS Cloud Practitioner** certification  
 
 ---
 
 ## 🤝 Let's Connect!
-
-I'm always excited to connect with fellow developers and industry professionals. Feel free to reach out!
 
 <div align="center">
 
@@ -90,7 +95,7 @@ I'm always excited to connect with fellow developers and industry professionals.
 
 <div align="center">
 
-*"Every expert was once a beginner. Every pro was once an amateur."*  
+*"Every expert was once a beginner. Every pro was once an amateur."*  
 **Ready to learn, grow, and contribute! 🚀**
 
 </div>
