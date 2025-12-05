@@ -64,9 +64,9 @@ Fresh **Management Information Systems** graduate from **University of Jordan** 
 
 <div align="center">
   
-![Huthaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtQe&show_icons=true&theme=radical)
+![Huthaifa's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=HtQe&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtQe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=HtQe&layout=compact&theme=radical)
 
 </div>
 
